@@ -447,8 +447,8 @@ body.nav-active {
 }
 
 .hero-banner .w-100 {
-    mask-image: url("../images/Blob.svg");
-    -webkit-mask-image: url("../images/Blog.svg");
+    mask-image: url("./images/Blob.svg");
+    -webkit-mask-image: url("./images/Blog.svg");
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
