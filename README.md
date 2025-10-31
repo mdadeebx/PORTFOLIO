@@ -59,9 +59,9 @@ Check out the live version here:
 
 If you’d like to connect or collaborate, feel free to reach out:
 
-* **Email:** [adeeb@example.com](mailto:mdadeebx@gmail.com) *(replace with your actual email)*
-* **LinkedIn:** [linkedin.com/in/adeebahmed](https://linkedin.com/in/mdadeeb)
-* **GitHub:** [github.com/adeebahmed](https://github.com/mdadeebx)
+* **Email:** [mdadeebx@gmail.com](mailto:mdadeebx@gmail.com)
+* **LinkedIn:** [linkedin.com/in/mdadeeb](https://linkedin.com/in/mdadeeb)
+* **GitHub:** [github.com/mdadeebx](https://github.com/mdadeebx)
 
 ---
 
@@ -74,7 +74,7 @@ To run this project locally:
 git clone https://github.com/adeebahmed/PORTFOLIO.git
 
 # Navigate into the directory
-cd portfolio
+cd PORTFOLIO
 
 # Install dependencies (if applicable)
 npm install
