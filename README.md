@@ -59,9 +59,9 @@ Check out the live version here:
 
 If you’d like to connect or collaborate, feel free to reach out:
 
-* **Email:** [adeeb@example.com](mailto:adeeb@example.com) *(replace with your actual email)*
-* **LinkedIn:** [linkedin.com/in/adeebahmed](https://linkedin.com/in/adeebahmed)
-* **GitHub:** [github.com/adeebahmed](https://github.com/adeebahmed)
+* **Email:** [adeeb@example.com](mailto:mdadeebx@gmail.com) *(replace with your actual email)*
+* **LinkedIn:** [linkedin.com/in/adeebahmed](https://linkedin.com/in/mdadeeb)
+* **GitHub:** [github.com/adeebahmed](https://github.com/mdadeebx)
 
 ---
 
@@ -71,7 +71,7 @@ To run this project locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/adeebahmed/portfolio.git
+git clone https://github.com/adeebahmed/PORTFOLIO.git
 
 # Navigate into the directory
 cd portfolio
