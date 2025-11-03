@@ -51,7 +51,7 @@ While building this portfolio, I improved my understanding of:
 ## 🔗 **Live Portfolio**
 
 Check out the live version here:
-👉 [**adeebdev.me**](https://adeebdev.me) *(replace with your actual deployed URL)*
+👉 [**adeebdev.me**](https://mdadeebx.github.io/PORTFOLIO/) 
 
 ---
 
